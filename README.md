@@ -16,7 +16,6 @@ The example uses **PennyLane's TorchLayer** to convert a quantum node
     │
     ├── qnn_module_torch.ipynb   # Main notebook with full implementation
     ├── README.md                # Documentation (this file)
-    └── images/                  # (Optional) Store screenshots, plots, diagrams
 
 ------------------------------------------------------------------------
 
@@ -182,6 +181,6 @@ Suggested tasks include:
 ## 🧑‍💻 **Author**
 
 Dr. Arun Pandian J\
-Assistant Professor Senior Grade-I\
+Assistant Professor Senior Grade-II\
 School of Computer Science Engineering and Information Systems\
 Vellore Institute of Technology, Vellore
