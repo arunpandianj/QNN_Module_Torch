@@ -1,4 +1,4 @@
-# 🧠 QNN Module with PyTorch
+# QNN Module with PyTorch
 
 ### *Hybrid Classical--Quantum Neural Network using PennyLane & PyTorch*
 
@@ -10,7 +10,7 @@ The example uses **PennyLane's TorchLayer** to convert a quantum node
 
 ------------------------------------------------------------------------
 
-## 🚀 **Repository Structure**
+## **Repository Structure**
 
     qnn_module_torch/
     │
@@ -19,7 +19,7 @@ The example uses **PennyLane's TorchLayer** to convert a quantum node
 
 ------------------------------------------------------------------------
 
-## 🎯 **Objective**
+## **Objective**
 
 To demonstrate how to:
 
@@ -32,7 +32,7 @@ To demonstrate how to:
 
 ------------------------------------------------------------------------
 
-## 🧩 **Key Concepts Covered**
+## **Key Concepts Covered**
 
 ### ✔ **Angle Embedding**
 
@@ -58,7 +58,7 @@ Example hybrid model includes:
 
 ------------------------------------------------------------------------
 
-## 📘 **Notebook Contents**
+## **Notebook Contents**
 
 The notebook **qnn_module_torch.ipynb** includes:
 
@@ -108,7 +108,7 @@ A more advanced architecture combining: - Classical expansion layer\
 
 ------------------------------------------------------------------------
 
-## ⚙️ **Installation**
+## **Installation**
 
 Install dependencies using pip:
 
@@ -124,7 +124,7 @@ Or inside Google Colab:
 
 ------------------------------------------------------------------------
 
-## ▶️ **Running the Notebook**
+## **Running the Notebook**
 
 1.  Upload `qnn_module_torch.ipynb` to Google Colab **or** run it
     locally.\
@@ -134,7 +134,7 @@ Or inside Google Colab:
 
 ------------------------------------------------------------------------
 
-## 📊 **Results**
+## **Results**
 
 Typical results include:
 
@@ -145,7 +145,7 @@ Typical results include:
 
 ------------------------------------------------------------------------
 
-## 📚 **Learning Tasks (for Students)**
+## **Learning Tasks (for Students)**
 
 Suggested tasks include:
 
@@ -158,7 +158,7 @@ Suggested tasks include:
 
 ------------------------------------------------------------------------
 
-## 🛠️ **Technologies Used**
+## **Technologies Used**
 
   Technology         Purpose
   ------------------ -------------------------------------
@@ -170,7 +170,7 @@ Suggested tasks include:
 
 ------------------------------------------------------------------------
 
-## 📎 **References**
+## **References**
 
 1.  PennyLane Documentation\
 2.  TorchLayer API\
@@ -178,7 +178,7 @@ Suggested tasks include:
 
 ------------------------------------------------------------------------
 
-## 🧑‍💻 **Author**
+## **Author**
 
 Dr. Arun Pandian J\
 Assistant Professor Senior Grade-II\
