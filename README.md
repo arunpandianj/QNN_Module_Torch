@@ -34,20 +34,20 @@ To demonstrate how to:
 
 ## **Key Concepts Covered**
 
-### ✔ **Angle Embedding**
+### **Angle Embedding**
 
 Encodes classical features into quantum states through rotational gates.
 
-### ✔ **Entanglement Layers**
+### **Entanglement Layers**
 
 `BasicEntanglerLayers` allow qubits to interact and learn correlated
 patterns.
 
-### ✔ **TorchLayer Integration**
+### **TorchLayer Integration**
 
 Converts a QNode into a fully trainable PyTorch-compatible layer.
 
-### ✔ **Hybrid Model Architecture**
+### **Hybrid Model Architecture**
 
 Example hybrid model includes:
 
